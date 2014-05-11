@@ -1,0 +1,6 @@
+AWS_ACCESS_KEY_ID : 'Your Aws Acces key'
+AWS_SECRET_ACCESS_KEY : 'Your Aws Secret'
+REGION : 'Specify the region'
+KEY : 'Specify the key'
+INSTANCE_TYPE : 'Specify the instance type'
+USER : 'ec2-user'
