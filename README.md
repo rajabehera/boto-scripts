@@ -1,4 +1,4 @@
 boto-scripts
 ============
 
-Some utility boto scripts
+Some utility boto scripts.
